@@ -47,6 +47,9 @@
   <a href="https://www.google.com/search?q=json&rlz=1C1CHBF_esCO1066CO1066&oq=json&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIJCAEQIxgnGIoFMgkIAhAjGCcYigUyCggDEAAYsQMYgAQyBggEEEUYPDIGCAUQRRg8MgYIBhBFGDwyBggHEEUYPNIBCDEzMjNqMGo0qAIAsAIA&sourceid=chrome&ie=UTF-8"><img src="https://camo.githubusercontent.com/e0fe31b4bf5a7cffb35f18ee50fcdbe1f61bde74f893781502ba2bf708f270f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a736f6e2d3545354335433f7374796c653d666f722d7468652d6261646765266c6f676f3d6a736f6e266c6f676f436f6c6f723d7768697465"/></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>
   <a href="https://postgrest.org/en/stable/"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/HTML"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/es/docs/Web/CSS"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a href="https://styled-components.com/"><img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/></a>
 </div>
 
 ---
