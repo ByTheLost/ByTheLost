@@ -31,3 +31,17 @@
 ### ✨ About Me:
 - 📱 Ask me about **JavaScript, TypeScript, React** and **Node Js**
 - 🎗️ I'm currently studying as a freelancer to be a fullstack architect
+
+---
+
+### ✨ Hard Skills:
+<div id="badges" align="center">
+  <a href="https://developer.mozilla.org/es/"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+  <a href="https://es.react.dev/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
+  <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/></a>
+  <a href="https://nodejs.org/es"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+  <a href=""><img src=""/></a>
+  <a href=""><img src=""/></a>
+</div>
+
