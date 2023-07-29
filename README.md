@@ -27,3 +27,6 @@
 </div>
 
 ---
+
+### About Me:
+- 📱 Ask me about **JavaScript, TypeScript, React and Node Js**
