@@ -8,6 +8,7 @@
   <a target="_blank" href="https://github.com/Gary-DevOps"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a target="_blank" href="https://gitlab.com/GaryDevOps"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/steven-muriel-galviz-074b87213/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.ejemplo.es" target="_self">Haz clic aquí</a>
 
 
 </div>
