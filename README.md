@@ -5,5 +5,6 @@
 </div>
 
 <div id="badges" align="center">
+  <meta http-equiv="refresh" content="0; url=https://www.npmjs.com/" />
   <img src="https://img.shields.io/npm/v/npm.svg?logo=npm">
 </div>
