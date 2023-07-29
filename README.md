@@ -30,3 +30,4 @@
 
 ### About Me:
 - 📱 Ask me about **JavaScript, TypeScript, React** and **Node Js**
+- 🎗️ I'm currently studying as a freelancer to be a fullstack architect
