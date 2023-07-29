@@ -4,6 +4,8 @@
   <h3 align="center">A passionate web fullstack developer from Colombia, I am a constantly evolving programming technician, I like to learn all kinds of technologies and I love everything that involves technology.</h3>
 </div>
 
+---
+
 <div id="badges" align="center">
   <a href=""><img src=""/></a>
   <a href="https://github.com/Gary-DevOps"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
