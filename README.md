@@ -58,11 +58,11 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=Gary-DevOps)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=ByTheLost)](https://git.io/streak-stats)
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gary-DevOps)](https://github.com/Gary-DevOps/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByTheLost)](https://github.com/ByTheLost/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gary-DevOps)](https://github.com/Gary-Devops/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByTheLost)](https://github.com/ByTheLost/github-readme-stats)
   
 </div>
 
