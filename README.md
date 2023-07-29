@@ -29,4 +29,4 @@
 ---
 
 ### About Me:
-- 📱 Ask me about **JavaScript, TypeScript, React and Node Js**
+- 📱 Ask me about **JavaScript, TypeScript, React** and **Node Js**
