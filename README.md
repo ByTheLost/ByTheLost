@@ -5,6 +5,6 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.npmjs.com/"><img src="https://img.shields.io/npm/v/npm.svg?logo=npm"></a>
-  <a href="https://www.npmjs.com/"><img src="https://img.shields.io/npm/v/npm.svg?logo=npm"/></svg>"></a>
+  <a href="https://www.npmjs.com/"><img src="https://img.shields.io/npm/v/npm.svg?logo=npm"/></a>
+  <a href="https://www.npmjs.com/"><img src="https://img.shields.io/npm/v/npm.svg?logo=npm"/></a>
 </div>
