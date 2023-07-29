@@ -7,5 +7,5 @@
 <div id="badges" align="center">
   <a href="https://www.npmjs.com/"><img src="https://img.shields.io/npm/v/npm.svg?logo=npm"/></a>
   <a href="https://gitlab.com/GaryDevOps"><img src="https://img.shields.io/badge/GaryDevOps-gitlab-orange?logo=gitlab"/></a>
-  <a href="https://gitlab.com/GaryDevOps"><img src="https://img.shields.io/badge/GaryDevOps-github-blue?logo=githubb"/></a>
+  <a href="https://gitlab.com/GaryDevOps"><img src="https://img.shields.io/badge/GaryDevOps-github-blue?logo=github"/></a>
 </div>
