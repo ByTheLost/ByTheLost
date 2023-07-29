@@ -5,5 +5,5 @@
 </div>
 
 <div id="badges" align="center">
-  <img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs">
+  <img src="https://img.shields.io/npm/v/npm.svg?logo=npm">
 </div>
