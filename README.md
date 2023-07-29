@@ -14,6 +14,8 @@
   <a href="https://open.spotify.com/user/stevenmurielgalviz"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/></a>
  <a href="https://archlinux.org/"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"/></a>
   <a href="https://steamcommunity.com/profiles/76561199384383609"><img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white"/></a>
+<a href="https://www.google.com/search?q=linux&rlz=1C1CHBF_esCO1066CO1066&oq=linux&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg5MgYIAhBFGDkyBggDEEUYOzIHCAQQABiPAjIHCAUQABiPAjIGCAYQRRg9MgYIBxBFGD3SAQc2MDZqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+  
  
 
   
